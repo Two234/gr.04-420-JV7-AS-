@@ -14,7 +14,7 @@ TagManager:
   - UI
   - Walls
   - Player
-  - 
+  - Floor
   - 
   - 
   - 
@@ -42,9 +42,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: New Layer 1
-    uniqueID: 1602358143
-    locked: 0
-  - name: New Layer 2
+  - name: Floor
     uniqueID: 845929501
+    locked: 0
+  - name: Hammer
+    uniqueID: 3832407723
+    locked: 0
+  - name: Player
+    uniqueID: 1602358143
     locked: 0
