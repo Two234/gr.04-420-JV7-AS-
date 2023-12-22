@@ -15,4 +15,15 @@ public class MainMenu : MonoBehaviour
     {
         Application.Quit();
     }
+
+    public void LoadLevelTwo()
+    {
+        SceneManager.LoadSceneAsync(3);
+    }
+
+    public void LoadLevelThree()
+    {
+        SceneManager.LoadSceneAsync(5);
+    }
+
 }
