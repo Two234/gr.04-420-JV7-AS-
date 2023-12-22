@@ -1,0 +1,10 @@
+
+Rcsharpsquid:S3903"0Move 'DestroyController' into a named namespace.(º­Š±ùÿÿÿÿ
+Lcsharpsquid:S2933"#Make 'blockDestroyTime' 'readonly'.(½ì¬Òùÿÿÿÿ8‘´ö‹É1
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(×¬‚¸şÿÿÿÿ8Íì‹É1
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(­È»Ô8ïşï‹É1
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ñ¶õ8¶™ò‹É1
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¬·ÄÁşÿÿÿÿ8ûÔô‹É1
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(î™©8üÔô‹É1
+Xcsharpsquid:S10667"/Merge this if statement with the enclosing one.(ä²Êéşÿÿÿÿ8øàÖŒÉ1
+vcsharpsquid:S1450"RRemove the field 'hit' and declare it as a local variable in the relevant methods.(ÂÌ³Æ8ÇúÖŒÉ1
