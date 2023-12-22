@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -11,10 +12,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Floor
+  - Wall
+  - Destructable Wall
   - 
   - 
   - 
@@ -40,4 +41,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 936553313
+    locked: 0
+  - name: Destructable Wall
+    uniqueID: 1582971157
+    locked: 0
+  - name: Wall
+    uniqueID: 3436162509
+    locked: 0
+  - name: Player
+    uniqueID: 1606403349
     locked: 0
