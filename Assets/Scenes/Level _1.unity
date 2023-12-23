@@ -9460,6 +9460,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6264444518614350967, guid: 00d88b6b6e7a8bc4785ae9d527ffa02b, type: 3}
+      propertyPath: orthographic size
+      value: 5.300948
+      objectReference: {fileID: 0}
     - target: {fileID: 6751380481943197449, guid: 00d88b6b6e7a8bc4785ae9d527ffa02b, type: 3}
       propertyPath: m_SortingLayer
       value: 4
@@ -9583,11 +9587,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9058841489650015350, guid: df1d1e2e2ee0d0b44b6b6ae42cee0df1, type: 3}
       propertyPath: m_Size.x
-      value: 0.88438797
+      value: 3.0782251
+      objectReference: {fileID: 0}
+    - target: {fileID: 9058841489650015350, guid: df1d1e2e2ee0d0b44b6b6ae42cee0df1, type: 3}
+      propertyPath: m_Size.y
+      value: 0.98347473
       objectReference: {fileID: 0}
     - target: {fileID: 9058841489650015350, guid: df1d1e2e2ee0d0b44b6b6ae42cee0df1, type: 3}
       propertyPath: m_Offset.x
-      value: 0.0000019073486
+      value: -0.068555355
+      objectReference: {fileID: 0}
+    - target: {fileID: 9058841489650015350, guid: df1d1e2e2ee0d0b44b6b6ae42cee0df1, type: 3}
+      propertyPath: m_Offset.y
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
