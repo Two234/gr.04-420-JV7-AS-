@@ -7,6 +7,9 @@ public class PlayerHealth : MonoBehaviour
     public int maxHealth = 10;
     public int health;
     private Rigidbody2D rb;
+    private bool isDead;
+
+    public GameManagerScript gameManager;
     
     
     // Start is called before the first frame update
@@ -20,8 +23,10 @@ public class PlayerHealth : MonoBehaviour
     public void TakeDamage(int damage) 
     {
         health -= damage;   
-        if (health < 0) 
+        if (health <= 0 && !isDead) 
         {
+            isDead = true;
+            gameManager.gameOver();
             Die();
         }
     
